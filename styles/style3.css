@@ -1,0 +1,11 @@
+.gallery img {
+   color: rgb(118, 212, 126);
+
+}
+.gallery img:hover {
+    transform: scale(1.50);
+}
+.gallery
+{
+    font-size: large;
+}
