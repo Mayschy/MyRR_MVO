@@ -1,0 +1,6 @@
+#ignore readme.txt
+readme.txt
+
+
+#ignore files in folder build
+build/
