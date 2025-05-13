@@ -1,9 +1,9 @@
 .gallery img {
-   color: rgb(118, 212, 126);
+   color: rgb(63, 121, 67);
 
 }
 .gallery img:hover {
-    transform: scale(1.50);
+    transform: scale(2.50);
 }
 .gallery
 {
