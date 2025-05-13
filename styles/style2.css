@@ -1,0 +1,11 @@
+.gallery img {
+   color: bisque;
+
+}
+.gallery img:hover {
+    transform: scale(1.10);
+}
+.gallery
+{
+    font-size: large;
+}
